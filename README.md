@@ -4,7 +4,7 @@
 - **🔧 Electronic and Computer Engineer graduated from UFRJ**
 - **![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) Developer for Survival**
 - **![rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) Programmer by love**
-- **🐞 Hacker & Bug Catcher for fun!**
+- **🧑🏻‍💻 Hacker & Bug Catcher for fun!**
 
 ## **Languages & Skills:**
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
