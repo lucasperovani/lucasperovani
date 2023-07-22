@@ -1,10 +1,10 @@
 ![profile](https://github.com/lucasperovani/lucasperovani/assets/11947466/f2c11c9b-3d6b-404b-8a3c-cc1cb20d3d50)
 
 ## **About Me**:
-- 🔧 Electronic and Computer Engineer
-- ![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) Developer for Survival
-- ![rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) Programmer by love
-- 🐞 Hacker & Bug Catcher for fun!
+- **🔧 Electronic and Computer Engineer graduated from UFRJ**
+- **![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) Developer for Survival**
+- **![rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) Programmer by love**
+- **🐞 Hacker & Bug Catcher for fun!**
 
 ## **Languages & Skills:**
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -25,8 +25,20 @@
 ![assembly](https://img.shields.io/badge/Assembly-8A2BE2?style=for-the-badge&logo=assemblyscript)
 ![webgl](https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl)
 ![godot engine](https://img.shields.io/badge/godot%20engine-14354C?style=for-the-badge&logo=godotengine)
+![git & github](https://img.shields.io/badge/git_%26_github-212121?style=for-the-badge&logo=git)
 
 ## **Stats:**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasperovani&show_icons=true&theme=radical&bg_color=45,302e51ff,141321&hide_border=true&border_radius=20&rank_icon=percentile" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasperovani&theme=radical&bg_color=45,302e51ff,141321&hide_border=true&border_radius=20" alt="Lucas Perovani's github stats" /> |
-| ------------- | ------------- |
+<div align="center">
+  <img
+    align="center"
+    height=150
+    src="https://github-readme-stats.vercel.app/api?username=lucasperovani&show_icons=true&theme=radical&bg_color=45,302e51ff,141321&hide_border=true&border_radius=20&rank_icon=percentile"
+  />
+&emsp;
+  <img
+    align="center"
+    height=150
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasperovani&theme=radical&bg_color=45,302e51ff,141321&hide_border=true&border_radius=20&layout=compact" alt="Lucas Perovani's github stats"
+  />
+</div>
